@@ -15,7 +15,7 @@ body {
 .wrapper {
     height: 100px;
     width: 360px;
-    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0, #00ffff, #422e2e, #0221af, #ff4500);
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0, #00ffff, #422e2e, #0221a7, #ff4500);
     border-radius: 10px;
     cursor: default;
     animation: animate 1.5s linear infinite;
